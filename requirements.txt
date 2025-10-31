@@ -1,0 +1,46 @@
+beautifulsoup4==4.9.3
+Flask==2.0.2
+googlesearch_python==1.0.1
+numpy==1.21.4
+pandas==1.3.4
+python_dateutil==2.8.2
+requests==2.25.1
+scikit_learn==1.0.1
+whois==0.9.13
+gunicorn==20.1.0
+
+
+
+Smart Ai Technologies: Steps to creat the virtual environment
+
+1.conda create -n leaf_disease python=3.7
+
+2.conda activate leaf_disease 
+
+3.pip install ipykernel
+
+4.python -m ipykernel install --user --name leaf_disease --display-name "leaf_disease"
+
+Smart Ai Technologies: 
+
+pip install Flask==2.0.2
+pip install pandas==1.3.3
+pip install numpy
+pip install requests==2.31.0
+pip install Pillow==9.5.0
+pip install tensorflow==2.5.0
+pip install Werkzeug==2.2.3
+pip install opencv-python==4.6.0.66
+pip install seaborn==0.11.2
+pip install matplotlib==3.4.3
+pip install scikit-learn
+pip install matplotlib
+pip install reportlab==3.6.12
+pip install PyMySQL==0.10.0
+pip install qrcode==7.4.2
+pip install xgboost==1.5.2
+pip install imbalanced-learn==0.9.0
+pip install plotly==5.7.0
+pip install tldextract==3.4.0
+pip install whois
+pip install bs4==0.0.1
